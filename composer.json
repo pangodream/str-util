@@ -1,0 +1,21 @@
+{
+    "name": "pangodream/str-util",
+    "description": "A very simple package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "pangodream",
+            "email": "development@pangodream.es"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+             "StrUtil": "src/"
+         }
+    },
+    "require": {
+        "php": ">=7.0.0"
+    }
+}
